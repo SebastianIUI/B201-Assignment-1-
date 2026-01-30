@@ -2,7 +2,7 @@
 
 1. The purpose of this project is to create a password generator capable of additionally functionality (with a day, date, and time and ability to be appennded to a file)
 
-2. This program is allowed to take in a list or available case of words for.
+2. This program is allowed to take in a list of english letters (both upper and lowercase) and special characters. 
 
 3. The expected output for this assignment is a file containing the passwords and the day, date, and time of when it was created.
 
