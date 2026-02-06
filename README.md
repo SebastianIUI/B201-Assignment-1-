@@ -1,4 +1,4 @@
-# B201-Assignment-1-
+# B211-Assignment-1-
 
 1. The purpose of this project is to create a password generator capable of additionally functionality (with a day, date, and time and ability to be appennded to a file)
 
